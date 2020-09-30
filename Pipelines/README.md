@@ -1,5 +1,5 @@
 # Pipeline gallery
-This gallery highlights using AML studio pipeline with components to build, optimize, and manage machine learning workflows. [Learn more](https://docs.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines).
+This gallery highlights using Azure Machine Learning pipeline with components to build, optimize, and manage machine learning workflows. [Learn more](https://docs.microsoft.com/en-us/azure/machine-learning/concept-ml-pipelines).
 
 
 ![](https://docs.microsoft.com/en-us/azure/machine-learning/media/concept-designer/designer-drag-and-drop.gif)

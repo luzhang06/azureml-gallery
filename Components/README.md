@@ -1,13 +1,14 @@
 # Component gallery
-## Tutorials
-Find the tutorials [here](https://aka.ms/aml-component) to get started.
+In this directory, you will find a wide array of components that can be used in Azure Machine Learning, contibuted by Microsoft and open source community. 
 
 ## Contributing
 
 Instructions on how to contribute with your own component.
 
 ## Components
-In this directory, you will find a wide array of components that can be used in Azure Machine Learning, contibuted by Microsoft and open source community. A component is self-contained set of code that performs one step in the ML workflow (pipeline), such as data preprocessing, model training, model scoring and so on. A component is analogous to a function, in that it has a name, parameters, expects certain input and returns some value. Data scientists or developers can wrap their arbitrary code as Azure Machine Learning component by following the component specification. Notebooks are provided to perform a quick demonstration of different algorithms such as Simple Algorithm for Recommendation ([SAR](https://github.com/Microsoft/Product-Recommendations/blob/master/doc/sar.md)).
+A component is self-contained set of code that performs one step in the ML workflow (pipeline), such as data preprocessing, model training, model scoring and so on. A component is analogous to a function, in that it has a name, parameters, expects certain input and returns some value. Data scientists or developers can wrap their arbitrary code as Azure Machine Learning component by following the component specification. Find the tutorials [here](https://aka.ms/aml-component) to get started.
+
+Notebooks are provided to perform a quick demonstration of different algorithms such as Simple Algorithm for Recommendation ([SAR](https://github.com/Microsoft/Product-Recommendations/blob/master/doc/sar.md)).
 
 | GitHub | Notebook | Azure Machine Learning studio | Type | Description |
 | --- | --- | --- | --- | --- |
